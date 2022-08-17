@@ -11,7 +11,7 @@
   <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">   
-  <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg"> 
+ <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-plain.svg">
  
 </div>
   
