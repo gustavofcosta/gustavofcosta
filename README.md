@@ -1,4 +1,4 @@
-## Oi eu sou a Gustavo Fernandes Costa, Desenvolvedor Front end, estudando para ser Full Stack!
+## Oi eu sou a Gustavo Fernandes Costa estudante de analise e desenvolvimento de sistema, Desenvolvedor Front end, estudando para ser Full Stack!
 <div align="center">
   <a href="https://github.com/gustavofcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
