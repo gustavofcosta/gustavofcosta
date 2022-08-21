@@ -1,7 +1,7 @@
 ## Oi eu sou o Gustavo Fernandes Costa estudante de analise e desenvolvimento de sistema, Desenvolvedor Front end, estudando para ser Full Stack!
 <div align="center">
   <a href="https://github.com/gustavofcosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcostashow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofcosta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
