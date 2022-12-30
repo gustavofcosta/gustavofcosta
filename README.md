@@ -1,4 +1,6 @@
-## Oi eu sou o Gustavo Fernandes Costa estudante de analise e desenvolvimento de sistema, Desenvolvedor Front end, estudando para ser Full Stack!
+## Olá meu nome é Gustavo e estou cursando analise e desenvolvimento de sistemas e possuo mais de 1 ano de experiência, atuando nas áreas de Front-end com foco em HTML5, CSS3, JavaScript, Typescript, Reactjs, React Native, Bootstrap, Styled-components, Tailwindcss, Git, GitHub, Consumo de API REST.
+
+Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docker.
 <div align="center">
   <a href="https://github.com/gustavofcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
