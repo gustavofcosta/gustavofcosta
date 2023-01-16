@@ -2,7 +2,6 @@
 
 Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docker.
 
-
 <div align="center">
   <a href="https://github.com/gustavofcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
