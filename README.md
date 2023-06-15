@@ -1,4 +1,4 @@
-## Olá meu nome é Gustavo e sou desenvolvedor de software. Skilss: HTML5, CSS3, JavaScript, Typescript, Reactjs, React Native, Bootstrap, Styled-components, Tailwindcss, Git, GitHub, Consumo de API REST, Node, Express, Nestjs, Sql, Mongo, Prisma, Docker entre outros.
+## Olá meu nome é Gustavo e sou desenvolvedor de software. Skills: HTML5, CSS3, JavaScript, Typescript, Reactjs, React Native, Bootstrap, Styled-components, Tailwindcss, Git, GitHub, Consumo de API REST, Node, Express, Nestjs, Sql, Mongo, Prisma, Docker entre outros.
 
 Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docker.
 
