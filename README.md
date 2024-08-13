@@ -2,6 +2,11 @@
 
 Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docker.
 
+ <h2>Sistemas Desenvolvidos</h2>
+    <a href="https://app.erpcloud.com.br/">ERPCloud</a><br/>
+    <a href="https://www.xpandora.com.br/">XPandora</a><br/>
+    <a href="https://www.xlucy.com.br/">XLucy</a><br/>
+
 <div align="center">
   <a href="https://github.com/gustavofcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,10 +21,7 @@ Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docke
   <img align="center" alt="Gustavo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">   
 
 
-  <h2>Sistemas Desenvolvidos</h2>
-    <a href="https://app.erpcloud.com.br/">ERPCloud</a>
-    <a href="https://www.xpandora.com.br/">XPandora</a>
-    <a href="https://www.xlucy.com.br/">XLucy</a>
+ 
 </div>
   
   ##
