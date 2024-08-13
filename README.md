@@ -5,7 +5,7 @@ Possuo também conhecimento em Nodejs, Express, Nestjs, Prisma, Postgres e Docke
  <h2>Sistemas Desenvolvidos</h2>
     <a href="https://app.erpcloud.com.br/">ERPCloud</a><br/>
     <a href="https://www.xpandora.com.br/">XPandora</a><br/>
-    <a href="https://www.xlucy.com.br/">XLucy</a><br/>
+    <a href="https://www.xlucy.com.br/" style="margin-bottom:1rem">XLucy</a><br/>
 
 <div align="center">
   <a href="https://github.com/gustavofcosta">
